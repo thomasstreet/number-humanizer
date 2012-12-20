@@ -1,0 +1,3 @@
+#!/bin/sh
+coffee -b -c -o . lib/number-humanizer.coffee
+git add -f number-humanizer.js
