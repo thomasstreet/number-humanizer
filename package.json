@@ -1,0 +1,11 @@
+{
+  "name": "number-humanizer"
+, "version": "0.0.1"
+, "description": "Converts 1234 into 1.23k"
+, "homepage": "https://github.com/rosenfeld/number-humanizer"
+, "repository": { "type": "git", "url": "git://github.com/rosenfeld/number-humanizer.git" }
+, "author": "Rodrigo Rosenfeld Rosas"
+, "licenses": ["MIT"]
+, "devDependencies": { "jasmine-node": "1.0.x" }
+, "scripts": { "test": "jasmine-node --coffee spec"}
+}
