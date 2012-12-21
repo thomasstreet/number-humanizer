@@ -1,5 +1,7 @@
 # NumberHumanizer
 
+[![Build Status](https://travis-ci.org/rosenfeld/number-humanizer.png)](https://travis-ci.org/rosenfeld/number-humanizer)
+
 Converts numbers in an humanized format. See examples under spec/.
 
 ## Usage
