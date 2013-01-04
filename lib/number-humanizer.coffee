@@ -1,4 +1,4 @@
-(exports ? this).NumberHumanizer = class NumberHumanizer
+@NumberHumanizer = class NumberHumanizer
   @defaults =
     suffixes: ['', 'k', 'M', 'B', 'T']
     unsupportedSuffix: 'UNSUPPORTED UNIT'
