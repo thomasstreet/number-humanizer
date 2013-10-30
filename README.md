@@ -48,3 +48,7 @@ Rodrigo Rosenfeld Rosas
 ## License
 
 MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rosenfeld/number-humanizer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
