@@ -1,7 +1,7 @@
 {
   "name": "number-humanizer",
   "main": "number-humanizer.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/rosenfeld/number-humanizer",
   "authors": [
     "Rodrigo Rosenfeld Rosas <rr.rosas@gmail.com>"
