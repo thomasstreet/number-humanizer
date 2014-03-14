@@ -1,0 +1,23 @@
+{
+  "name": "number-humanizer",
+  "main": "number-humanizer.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rosenfeld/number-humanizer",
+  "authors": [
+    "Rodrigo Rosenfeld Rosas <rr.rosas@gmail.com>"
+  ],
+  "description": "Converts numbers in an humanized format.",
+  "keywords": [
+    "number",
+    "humanizer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
